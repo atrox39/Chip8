@@ -1,0 +1,13 @@
+.vscode
+build/
+*.o
+*.exe
+*.obj
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.log
+*.tmp
+*.out
+roms
